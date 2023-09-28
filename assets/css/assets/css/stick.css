@@ -1,0 +1,19 @@
+main{
+height: 300px;
+width: 100%;
+}
+#principal, #second-div{
+height: 950px;
+background-color: aqua;
+}
+#image{
+background: url(/assets/img/phoca_thumb_l_image03_grd.png) no-repeat;
+width: 650px;
+top: 50px;
+left: 50px;
+position: sticky;
+top: 50px;
+left: 50px;
+
+
+}
